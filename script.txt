@@ -2,6 +2,7 @@
 // @name         YouTube to noTube
 // @namespace    http://tampermonkey.net/
 // @version      1
+// @author       RyZyX35
 // @description  Discreet button to the left of the like button + 30s limit bypass
 // @match        *://*.youtube.com/*
 // @match        *://*.notube.lol/*
